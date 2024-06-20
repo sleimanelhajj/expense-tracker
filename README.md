@@ -1,2 +1,3 @@
-# to-do-list
+# expense-tracker
+
 this was done by utilizing Flutter
